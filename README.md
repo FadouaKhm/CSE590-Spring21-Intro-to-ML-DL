@@ -1,1 +1,2 @@
-# CSE-590---Spring-2021---Intro-to-ML-and-DL-Tutorials
+# [CSE590-Spring'21]
+Introduction to Machine Learning and Deep Learning - Class Tutorials
